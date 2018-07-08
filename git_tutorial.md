@@ -34,9 +34,7 @@ Gitによって変更を監視している
 
 
 
-![git_local](git_images/git_local.png
-
-)
+![git_local](git_images/git_local.png)
 
 
 
